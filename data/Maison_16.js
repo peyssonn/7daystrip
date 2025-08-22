@@ -1,0 +1,1 @@
+var json_Maison_16 = {"type":"FeatureCollection","name":"Maison_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nom":"Maison","Description":"Boucle A/R"},"geometry":{"type":"Point","coordinates":[5.709458806794132,45.187612439563217]}}]}
